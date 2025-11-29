@@ -1,8 +1,4 @@
 streamlit
 python-dotenv
 pypdf
-google-generativeai
-json
-time
-os
-io
+google-genai
